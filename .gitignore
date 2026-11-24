@@ -1,0 +1,27 @@
+# Upstream third-party baseline repo & large raw ECG datasets (>100 MB GitHub limit)
+acy_ampt/
+ECG DBs.zip
+
+# Local virtual environments & Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local tooling & knowledge graph cache
+graphify-out/
+.DS_Store
+Thumbs.db
+
+# Superseded drafts, older notebooks & reference PDFs
+replication.ipynb
+02_pembanding.ipynb
+03_eksperimen_lanjutan.ipynb
+result_experiment/figures/
+sensors-23-01625.pdf
+Usulan final project PSD.pdf
+PAPER_REFERENCE.md
+laporan.md
