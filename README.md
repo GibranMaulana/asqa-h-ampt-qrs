@@ -89,3 +89,8 @@ python experiments/generate_figures_clean.py
 ## Acknowledgments & Third-Party Attribution
 - **Baseline Implementation:** Original Pan–Tompkins and AMPT implementations are authored by **AccYouRate Group S.p.A.** ([`Accyourate-Group-S-p-A/acy_ampt`](https://github.com/Accyourate-Group-S-p-A/acy_ampt), Neri et al., *Sensors* 2023) and are excluded from this repository; please clone them separately as shown above.
 - **Benchmark Datasets:** PhysioNet/CinC Challenge 2014, MIT-BIH Normal Sinus Rhythm Database, MIT-BIH Arrhythmia Database (PhysioNet), and the Harvard Dataverse TELE ECG Database.
+
+---
+
+## License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
